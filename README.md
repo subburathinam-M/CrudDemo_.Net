@@ -231,20 +231,21 @@ Products Table:
 
 ### Swagger UI - API Documentation
 ![Swagger UI](screenshots/swagger.png)
+![Swagger UI](screenshots/swagger1.png)
 
 ### API Testing with Postman
 
 #### GET All Products
-![GET All Products](screenshots/get-all-products.png)
+![GET All Products](screenshots/postman_get.png)
 
 #### POST Create Product
-![Create Product](screenshots/create-product.png)
+![Create Product](screenshots/post.png)
 
 #### PUT Update Product
-![Update Product](screenshots/update-product.png)
+![Update Product](screenshots/postman_update.png)
 
 #### DELETE Product
-![Delete Product](screenshots/delete-product.png)
+![Delete Product](screenshots/del.png)
 
 ## 🧪 Testing the API
 
