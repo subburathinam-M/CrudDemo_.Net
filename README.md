@@ -231,7 +231,6 @@ Products Table:
 
 ### Swagger UI - API Documentation
 ![Swagger UI](screenshots/swagger.png)
-![Swagger UI](screenshots/swagger1.png)
 
 ### API Testing with Postman
 
