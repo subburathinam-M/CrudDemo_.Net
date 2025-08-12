@@ -72,7 +72,13 @@ dotnet restore
   }
 }
 ```
+4. **Apply database migrations:**
 
+```
+dotnet ef database update
+```
+5. **Run the application:**
 
-
-
+```
+dotnet run
+```
