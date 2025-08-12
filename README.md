@@ -82,3 +82,59 @@ dotnet ef database update
 ```
 dotnet run
 ```
+
+6. **Access the application:**
+``` API Base URL: http://localhost:5004 ```
+``` Swagger UI: http://localhost:5004/swagger ```
+``` Swagger JSON: http://localhost:5004/swagger/v1/swagger.json1 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# 🛍️ .NET 8 CRUD API - Product Management System
+
+A complete **RESTful CRUD API** built with **.NET 8**, **Entity Framework Core**, **SQL Server**, and **Swagger UI** for managing products.
+
+![.NET](https://img.shields.io/badge/.NET-8.0-blue.svg)
+![Entity Framework](https://img.shields.io/badge/EF%20Core-8.0-green.svg)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-LocalDB-red.svg)
+![Swagger](https://img.shields.io/badge/Swagger-UI-orange.svg)
+
+## 🚀 Features
+
+- ✅ **CREATE** - Add new products
+- ✅ **READ** - Get all products or single product
+- ✅ **UPDATE** - Modify existing products  
+- ✅ **DELETE** - Remove products
+- ✅ **Swagger UI** - Interactive API documentation
+- ✅ **Error Handling** - Comprehensive error responses
+- ✅ **Structured Responses** - Consistent JSON format
+- ✅ **Entity Framework Core** - Code-first approach
+- ✅ **SQL Server** - Database integration
+
+## 🛠️ Tech Stack
+
+- **Framework:** .NET 8 Web API
+- **ORM:** Entity Framework Core
+- **Database:** SQL Server
+- **Documentation:** Swagger/OpenAPI
+- **Language:** C#
+
+## 📁 Project Structure
+
+
