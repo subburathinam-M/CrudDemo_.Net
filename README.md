@@ -84,22 +84,6 @@ dotnet run
 ```
 
 6. **Access the application:**
-``` API Base URL: http://localhost:5004 ```
-``` Swagger UI: http://localhost:5004/swagger ```
-``` Swagger JSON: http://localhost:5004/swagger/v1/swagger.json1 ```
-
-
-
-
-
-
-
-
-
-
-
-
-6. **Access the application:**
    - **API Base URL:** `http://localhost:5004`
    - **Swagger UI:** `http://localhost:5004/swagger`
    - **Swagger JSON:** `http://localhost:5004/swagger/v1/swagger.json`
@@ -246,7 +230,7 @@ Products Table:
 ## 📸 Screenshots
 
 ### Swagger UI - API Documentation
-![Swagger UI](screenshots/swagger-ui.png)
+![Swagger UI](screenshots/swagger.png)
 
 ### API Testing with Postman
 
