@@ -347,20 +347,7 @@ This project is licensed under the MIT License.
 ---
 
 **⭐ If you found this project helpful, please give it a star!**
-```
 
-This README is formatted specifically for GitHub and includes:
-- ✅ GitHub-specific markdown syntax
-- ✅ Proper badges and shields
-- ✅ Clear sections with emojis
-- ✅ Code blocks with syntax highlighting
-- ✅ Tables for better organization
-- ✅ Screenshot placeholders
-- ✅ Professional structure
-- ✅ Complete API documentation
-- ✅ Swagger integration details
-
-Just copy and paste this into your `README.md` file in your GitHub repository!
 
 
 
